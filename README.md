@@ -38,12 +38,5 @@ Execute **mvn clean package assembly:single** to build the release package.
 
 - PAGE DOWN - Decrease the volume
 
-## What about license ?
-
-This project is licensed under the WTFPL (Do What The Fuck You Want To Public License, Version 2)
-
-[![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/logo-220x1601.png)](http://www.wtfpl.net/)
-
-Copyright © 2016-2017 spypunk [spypunk@gmail.com](mailto:spypunk@gmail.com)
-
-This work is free. You can redistribute it and/or modify it under the terms of the Do What The Fuck You Want To Public License, Version 2, as published by Sam Hocevar. See the COPYING file for more details.
+.......................................................
+Having a supportive team can make a big difference in your life and work. They can help you accomplish your goals, overcome challenges, and provide a sense of community and belonging. It's important to appreciate and recognize their contributions, and to make sure you show your gratitude for their support....................
